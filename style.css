@@ -117,17 +117,24 @@ button:disabled {
 
 @media screen and (max-width: 1250px) {
 
-    h1 {
-        font-size: 50px;
+    .container{
+        width: 80%;
+        height: 70%;
     }
 
-    .container__botao {
+    h1 {
+        font-size: 48px;
+        position: relative; bottom: 45px;
+    }
+
+    .container__botao{
+        margin-top: 25%;
         font-size: 16px;
     }
 
 
     .texto__paragrafo {
-        font-size: 24px;
+        font-size: 19px;
     }
 
     .container__imagem-pessoa {
@@ -143,3 +150,12 @@ button:disabled {
         padding: 1rem
     }
 }
+@media screen and (min-width: 1920px) {
+    .container__imagem-pessoa{
+        height: 900px; 
+}
+    .container__conteudo{
+        position: absolute;
+        right: 5rem;
+    }}
+    
