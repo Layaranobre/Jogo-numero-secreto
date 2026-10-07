@@ -26,7 +26,7 @@ até você acertar. Ao final, mostra em quantas tentativas você conseguiu!
 - 🔄 Botão para reiniciar e jogar novamente
 - 📱 Interface simples e responsiva
 
-<!-- ajuste: remova ou adicione itens conforme o seu projeto -->
+
 
 ## 🕹️ Como jogar
 
@@ -58,7 +58,7 @@ Depois, é só abrir o arquivo `index.html` no seu navegador. Não precisa insta
 ```
 Jogo-numero-secreto/
 ├── index.html
-├── style.css      <!-- ajuste conforme seus arquivos -->
+├── style.css      
 ├── app.js
 └── README.md
 ```
