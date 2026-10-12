@@ -77,3 +77,86 @@ Este projeto foi criado para praticar:
 Feito com 💜 por **Layara Nobre**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Layaranobre)
+
+<br>
+<br>
+<br>
+<br>
+
+ <h1 align="center">🎯 Secret Number Game</h1>
+
+<p align="center">
+  A simple and fun game: discover the secret number randomly chosen by the computer!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+## 🎮 About the project
+
+The computer randomly selects a secret number, and you try to guess what it is.
+With each guess, the game tells you whether the number is **higher** or **lower** than your guess,
+until you get it right. At the end, it shows how many attempts it took you!
+
+## ✨ Features
+
+- 🎲 Random selection of a secret number in each round
+- 💡 Hints after each guess (the number is higher or lower)
+- 🔢 Attempt counter
+- 🔄 Button to restart and play again
+- 📱 Simple and responsive interface
+
+## 🕹️ How to play
+
+1. Enter a number in the indicated field (from **1 to 100**). <!-- adjust the range -->
+2. Click **Guess**.
+3. Follow the hints until you discover the secret number.
+4. Click **New Game** to play again.
+
+## 🚀 How to run
+
+```bash
+# Clone the repository
+git clone https://github.com/Layaranobre/Jogo-numero-secreto.git
+
+# Enter the folder
+cd Jogo-numero-secreto
+```
+
+Then, simply open the `index.html` file in your browser. No installation required!
+
+## 🛠️ Technologies
+
+- **HTML5** – page structure
+- **CSS3** – styling and layout
+- **JavaScript** – game logic
+
+## 📂 Project structure
+
+```
+Jogo-numero-secreto/
+├── index.html
+├── style.css      
+├── app.js
+└── README.md
+```
+
+## 📚 What I learned
+
+This project was created to practice:
+
+- DOM manipulation
+- Functions and variables in JavaScript
+- Conditionals and loops
+- Random number generation
+
+## 👩‍💻 Author
+
+Made with 💜 by **Layara Nobre**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Layaranobre)
